@@ -54,7 +54,7 @@ A lightweight, secure URL shortening service built with Python Flask and MySQL. 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/url-shortener-hash-base64.git
+git clone https://github.com/Kamesh-A13/Secure-URL-Shortener.git
 cd url-shortener-hash-base64
 ```
 
@@ -216,3 +216,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
